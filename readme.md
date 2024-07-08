@@ -36,6 +36,9 @@ Now you can test your connection type into your Terminal ```<username>@<ssh.exam
 
 ## Source
 https://www.youtube.com/watch?v=lq7WpGJZvk4&ab_channel=Cloudflare
+
 https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/use-cases/ssh/#native-terminal
+
 https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-local-tunnel/
+
 https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/
